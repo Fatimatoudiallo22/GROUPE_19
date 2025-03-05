@@ -1,0 +1,625 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\formrapports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:formrapports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\formprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:formprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\formnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:formnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\formmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:formmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\formlisteetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:formlisteetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\formcours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:formcours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\formclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:formclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\formlisteetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:formlisteetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\formetudiants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:formetudiants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\formetudiants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:formetudiants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\matiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:matiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\formusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:formusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\formprof.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:formprof.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\formprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:formprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\formparametre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:formparametre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\formnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:formnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\formmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:formmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\formcours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:formcours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\formcoursmat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:formcoursmat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\formclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:formclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\formclasses.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:formclasses.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\dbgestionetudiantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:dbgestionetudiantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\professeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:professeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\migrations\\202503030240045_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:migrations\\202503030240045_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\otpcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:otpcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|c:\\users\\fatima diallo\\videos\\captures\\gestionsysthemeetudiant\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D750BE3-BCC6-478D-BA12-AB88C75D2B11}|GestionSysthemeEtudiant.csproj|solutionrelative:utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 157,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 30,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAQwKMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T02:17:39.957Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormListeEtudiant.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormListeEtudiant.cs",
+              "RelativeDocumentMoniker": "FormListeEtudiant.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormListeEtudiant.cs",
+              "RelativeToolTip": "FormListeEtudiant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:54:55.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormListeEtudiant.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormListeEtudiant.cs",
+              "RelativeDocumentMoniker": "FormListeEtudiant.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormListeEtudiant.cs [Design]",
+              "RelativeToolTip": "FormListeEtudiant.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:51:02.744Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormNotes.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormNotes.cs",
+              "RelativeDocumentMoniker": "FormNotes.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormNotes.cs",
+              "RelativeToolTip": "FormNotes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwF4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:37:29.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormMatiere.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormMatiere.cs",
+              "RelativeDocumentMoniker": "FormMatiere.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormMatiere.cs*",
+              "RelativeToolTip": "FormMatiere.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T02:38:32.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMatiere.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormMatiere.cs",
+              "RelativeDocumentMoniker": "FormMatiere.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormMatiere.cs [Design]*",
+              "RelativeToolTip": "FormMatiere.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T02:32:36.241Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormCours.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormCours.cs",
+              "RelativeDocumentMoniker": "FormCours.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormCours.cs",
+              "RelativeToolTip": "FormCours.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T02:02:52.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormCours.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormCours.cs",
+              "RelativeDocumentMoniker": "FormCours.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormCours.cs [Design]",
+              "RelativeToolTip": "FormCours.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T01:56:51.405Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormProf.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormProf.cs",
+              "RelativeDocumentMoniker": "FormProf.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormProf.cs",
+              "RelativeToolTip": "FormProf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T23:39:27.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormProf.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormProf.Designer.cs",
+              "RelativeDocumentMoniker": "FormProf.Designer.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormProf.Designer.cs",
+              "RelativeToolTip": "FormProf.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:22:59.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormClasses.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormClasses.Designer.cs",
+              "RelativeDocumentMoniker": "FormClasses.Designer.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormClasses.Designer.cs",
+              "RelativeToolTip": "FormClasses.Designer.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAgwI8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T05:31:35.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormClasses.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormClasses.cs",
+              "RelativeDocumentMoniker": "FormClasses.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormClasses.cs",
+              "RelativeToolTip": "FormClasses.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowIcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:40:02.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "202503030240045_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Migrations\\202503030240045_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\202503030240045_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Migrations\\202503030240045_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\202503030240045_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:40:20.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:36:49.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DBGestionEtudiantContext.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\DBGestionEtudiantContext.cs",
+              "RelativeDocumentMoniker": "DBGestionEtudiantContext.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\DBGestionEtudiantContext.cs",
+              "RelativeToolTip": "DBGestionEtudiantContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:29:39.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:21:55.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OTPCodes.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\OTPCodes.cs",
+              "RelativeDocumentMoniker": "OTPCodes.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\OTPCodes.cs",
+              "RelativeToolTip": "OTPCodes.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:17:30.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "Utilisateur.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Utilisateur.cs",
+              "RelativeToolTip": "Utilisateur.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:16:59.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Note.cs",
+              "RelativeDocumentMoniker": "Note.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Note.cs",
+              "RelativeToolTip": "Note.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:16:17.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Professeur.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Professeur.cs",
+              "RelativeDocumentMoniker": "Professeur.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Professeur.cs",
+              "RelativeToolTip": "Professeur.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:15:42.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Matiere.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Matiere.cs",
+              "RelativeDocumentMoniker": "Matiere.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Matiere.cs",
+              "RelativeToolTip": "Matiere.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:15:16.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Cours.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Cours.cs",
+              "RelativeDocumentMoniker": "Cours.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Cours.cs",
+              "RelativeToolTip": "Cours.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:14:47.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Classe.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Classe.cs",
+              "RelativeDocumentMoniker": "Classe.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Classe.cs",
+              "RelativeToolTip": "Classe.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:14:20.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Etudiant.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Etudiant.cs",
+              "RelativeDocumentMoniker": "Etudiant.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Etudiant.cs",
+              "RelativeToolTip": "Etudiant.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:13:49.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormEtudiants.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormEtudiants.cs",
+              "RelativeDocumentMoniker": "FormEtudiants.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormEtudiants.cs [Design]",
+              "RelativeToolTip": "FormEtudiants.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:35:17.019Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T08:00:36.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormEtudiants.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormEtudiants.cs",
+              "RelativeDocumentMoniker": "FormEtudiants.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormEtudiants.cs",
+              "RelativeToolTip": "FormEtudiants.cs",
+              "ViewState": "AgIAACABAAAAAAAAAAAAACABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:58:45.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-02T07:47:10.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormParametre.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormParametre.cs",
+              "RelativeDocumentMoniker": "FormParametre.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormParametre.cs [Design]",
+              "RelativeToolTip": "FormParametre.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:46:57.459Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormRapports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormRapports.cs",
+              "RelativeDocumentMoniker": "FormRapports.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormRapports.cs [Design]",
+              "RelativeToolTip": "FormRapports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:46:37.068Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormUsers.cs",
+              "RelativeDocumentMoniker": "FormUsers.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormUsers.cs [Design]",
+              "RelativeToolTip": "FormUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:46:16.433Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormNotes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormNotes.cs",
+              "RelativeDocumentMoniker": "FormNotes.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormNotes.cs [Design]",
+              "RelativeToolTip": "FormNotes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:45:56.242Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormCoursMat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormCoursMat.cs",
+              "RelativeDocumentMoniker": "FormCoursMat.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormCoursMat.cs [Design]",
+              "RelativeToolTip": "FormCoursMat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:45:27.486Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormClasses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormClasses.cs",
+              "RelativeDocumentMoniker": "FormClasses.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormClasses.cs [Design]",
+              "RelativeToolTip": "FormClasses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:45:02.06Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormProf.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormProf.cs",
+              "RelativeDocumentMoniker": "FormProf.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\FormProf.cs [Design]",
+              "RelativeToolTip": "FormProf.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:35:48.145Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\GestionSysthemeEtudiant\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T01:45:15.98Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
