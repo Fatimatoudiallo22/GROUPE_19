@@ -149,6 +149,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FormCours";
             this.Text = "FormCours";
+            this.Load += new System.EventHandler(this.FormCours_Load);
             ((System.ComponentModel.ISupportInitialize)(this.tableCours)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

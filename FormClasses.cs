@@ -132,6 +132,11 @@ namespace GestionSysthemeEtudiant
                 tableClasse.DataSource = filteredClasses;
             }
         }
+
+        private void FormClasses_Load(object sender, EventArgs e)
+        {
+
+        }
     }
     
 }

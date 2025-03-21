@@ -36,15 +36,62 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>packages\BouncyCastle.Cryptography.2.4.0\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml, Version=3.3.0.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>packages\DocumentFormat.OpenXml.3.3.0\lib\net46\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml.Framework, Version=3.3.0.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>packages\DocumentFormat.OpenXml.Framework.3.3.0\lib\net46\DocumentFormat.OpenXml.Framework.dll</HintPath>
+    </Reference>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>packages\EntityFramework.6.5.1\lib\net45\EntityFramework.dll</HintPath>
     </Reference>
     <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>packages\EntityFramework.6.5.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
+    <Reference Include="EPPlus, Version=7.6.1.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <HintPath>packages\EPPlus.7.6.1\lib\net462\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus.Interfaces, Version=7.6.1.0, Culture=neutral, PublicKeyToken=a694d7f3b0907a61, processorArchitecture=MSIL">
+      <HintPath>packages\EPPlus.Interfaces.7.6.1\lib\net462\EPPlus.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus.System.Drawing, Version=7.6.1.0, Culture=neutral, PublicKeyToken=2308d35469c9bac0, processorArchitecture=MSIL">
+      <HintPath>packages\EPPlus.System.Drawing.7.6.1\lib\net462\EPPlus.System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.4, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\iTextSharp.5.5.13.4\lib\net461\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IO.RecyclableMemoryStream, Version=3.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.IO.RecyclableMemoryStream.3.0.1\lib\netstandard2.0\Microsoft.IO.RecyclableMemoryStream.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
     <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.ComponentModel.Annotations.5.0.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
     <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing.Common, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Drawing.Common.9.0.1\lib\net462\System.Drawing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.4.5.3\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -54,10 +101,13 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classe.cs" />
+    <Compile Include="ClasseCours.cs" />
     <Compile Include="Cours.cs" />
+    <Compile Include="CoursMatiere.cs" />
     <Compile Include="DBGestionEtudiantContext.cs" />
     <Compile Include="Etudiant.cs" />
     <Compile Include="Form1.cs">
@@ -65,6 +115,12 @@
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAgent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAgent.Designer.cs">
+      <DependentUpon>FormAgent.cs</DependentUpon>
     </Compile>
     <Compile Include="FormClasses.cs">
       <SubType>Form</SubType>
@@ -84,6 +140,12 @@
     <Compile Include="FormCoursMat.Designer.cs">
       <DependentUpon>FormCoursMat.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormDE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDE.Designer.cs">
+      <DependentUpon>FormDE.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormEtudiants.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -95,6 +157,12 @@
     </Compile>
     <Compile Include="FormListeEtudiant.Designer.cs">
       <DependentUpon>FormListeEtudiant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
     </Compile>
     <Compile Include="FormMatiere.cs">
       <SubType>Form</SubType>
@@ -120,18 +188,25 @@
     <Compile Include="FormProf.Designer.cs">
       <DependentUpon>FormProf.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormProfesseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProfesseur.Designer.cs">
+      <DependentUpon>FormProfesseur.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormRapports.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormRapports.Designer.cs">
       <DependentUpon>FormRapports.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormUsers.cs">
+    <Compile Include="FormUtilisateur.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormUsers.Designer.cs">
-      <DependentUpon>FormUsers.cs</DependentUpon>
+    <Compile Include="FormUtilisateur.Designer.cs">
+      <DependentUpon>FormUtilisateur.cs</DependentUpon>
     </Compile>
+    <Compile Include="IRepository.cs" />
     <Compile Include="Matiere.cs" />
     <Compile Include="Migrations\202503030240045_InitialCreate.cs" />
     <Compile Include="Migrations\202503030240045_InitialCreate.Designer.cs">
@@ -141,11 +216,16 @@
     <Compile Include="Note.cs" />
     <Compile Include="OTPCodes.cs" />
     <Compile Include="Professeur.cs" />
+    <Compile Include="ProfesseurClasse.cs" />
+    <Compile Include="ProfesseurMatiere.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Utilisateur.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAgent.resx">
+      <DependentUpon>FormAgent.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormClasses.resx">
       <DependentUpon>FormClasses.cs</DependentUpon>
@@ -153,11 +233,20 @@
     <EmbeddedResource Include="FormCours.resx">
       <DependentUpon>FormCours.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormCoursMat.resx">
+      <DependentUpon>FormCoursMat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDE.resx">
+      <DependentUpon>FormDE.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormEtudiants.resx">
       <DependentUpon>FormEtudiants.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormListeEtudiant.resx">
       <DependentUpon>FormListeEtudiant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormMatiere.resx">
       <DependentUpon>FormMatiere.cs</DependentUpon>
@@ -168,8 +257,14 @@
     <EmbeddedResource Include="FormProf.resx">
       <DependentUpon>FormProf.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormProfesseur.resx">
+      <DependentUpon>FormProfesseur.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormRapports.resx">
       <DependentUpon>FormRapports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUtilisateur.resx">
+      <DependentUpon>FormUtilisateur.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202503030240045_InitialCreate.resx">
       <DependentUpon>202503030240045_InitialCreate.cs</DependentUpon>

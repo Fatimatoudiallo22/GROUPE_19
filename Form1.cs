@@ -163,5 +163,42 @@ namespace GestionSysthemeEtudiant
             formListeEtudiant.MdiParent = this;
             formListeEtudiant.Show();
         }
+
+        private void btnUser_Click_1(object sender, EventArgs e)
+        {
+            FormUtilisateur formUtilisateur = new FormUtilisateur();
+            formUtilisateur.MdiParent = this;
+            formUtilisateur.Show();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnDeconnexion_Click(object sender, EventArgs e)
+        {
+            this.Close();
+
+            // Créer une nouvelle instance du formulaire de connexion
+            FormLogin formLogin = new FormLogin();
+
+            // Afficher le formulaire de connexion
+            formLogin.Show();
+        }
+
+        private void btnCoursMat_Click_1(object sender, EventArgs e)
+        {
+            FormCoursMat formCoursMat = new FormCoursMat();
+            formCoursMat.MdiParent = this;
+            formCoursMat.Show();
+        }
+
+        private void btnRapport_Click(object sender, EventArgs e)
+        {
+            FormRapports formRapports = new FormRapports();
+            formRapports.MdiParent = this;
+            formRapports.Show();
+        }
     }
 }

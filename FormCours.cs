@@ -147,5 +147,10 @@ namespace GestionSysthemeEtudiant
             string recherche = txtRchercheCours.Text;  // Récupérer le texte saisi par l'utilisateur
             ChargerCours(recherche);  // Charger les cours filtrés
         }
+
+        private void FormCours_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

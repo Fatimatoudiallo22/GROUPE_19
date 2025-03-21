@@ -173,6 +173,7 @@
             this.Name = "FormClasses";
             this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "FormClasses";
+            this.Load += new System.EventHandler(this.FormClasses_Load);
             ((System.ComponentModel.ISupportInitialize)(this.tableClasse)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
